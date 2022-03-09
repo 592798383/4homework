@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 12px;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: sylfaen;
+    src: url(../fontebi/bpg_glaho_sylfaen.ttf);
+}
+header{
+    background-color: #C4C4C4;
+    width: 100%;
+    height: 150px;
+}
+main{
+    width: 100%;
+}
+article{
+    background-color: #3D3D3D;
+    width: 100%;
+    height: 430px;
+}
+div{
+    width:95%;
+    float: left;
+    height: 348px;
+    margin: auto;
+    
+    
+}
+.color1{
+    background-color:  #FF9900;
+    width: 33.33%;
+}
+.color2{
+    background: #FFC700;
+     width: 33.33%;
+}
+.color3{
+    background: #FFE600;
+    width: 33.33%;
+}
+ul li a {
+font-size: 18px;
+padding: 38px;
+}
+ul li {
+    float: left;
+}
+li{
+    margin-top: 62px;
+}
+p{
+    clear: left;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+
+   color: white;
+}
+img{
+    width: 100%;
+    height: 200px;
+}
+.text{
+    color: black;
+    font-size: 12px;
+}
+    
+
+.linki{
+    color: #00000080;
+    clear: none;
+}
+footer{
+    margin-left: 37px;
+    width: 153px;
+}
+.news1{
+    background-color: #FF9900;
+width: 96%;
+margin: 0 auto;
+height: 741px;
+
+}
+
+.mtavari{
+   margin-left: 45px;
+   height: 15px;
+  width: 183px;
+ margin-top:  163px;
+ font-size: 12px;
+ line-height: 16px;
+
+}
+div{
+    float: left;
+}
+
+.fotoebi{
+    
+    width: 90%;
+    margin: 0 auto;
+    margin-left: 5%;
+
+}
+
+.foto1{
+     
+    margin-top: 150px;
+    width: 33.33%;
+    height: 200px;
+
+}
+.foto2{
+
+    margin-top: 150px;
+    width: 33,33%;
+    height: 200px;
+    
+   
+  
+}
+.foto3{
+    margin-top: 150px;
+    width: 33,33%;
+    height: 200px;
+    
+
+    
+}
+
+
+.news1text{
+    color: black;
+    width: 95%;
+    height: 324px;
+    font-size: 14px;
+ margin-left: 47px;
+    height: 386px;
+    margin-top: 36px;   
+    line-height: 18px;
+}
+
+
+footer{
+    clear: both;
+    margin-left: 37px;
+    width: 153px;
+}
+
+
+.news2{
+    background-color:  #FFC700;
+    width: 96%;
+height: 741px;
+margin-left: 37px;
+margin-top: 41px;
+margin-bottom: 92px;
+margin-right: 33px;
+
+}
+.foto2{
+    width: 32%;
+    height: 200px;
+}
+
+
+.news3{
+    background-color:  #FFE600;
+    width: 90%;
+    height: 741px;
+    margin-left: 37px;
+    margin-top: 41px;
+    margin-bottom: 92px;
+    margin-right: 33px;
+}
+.foto3{
+    width: 32%;
+    height: 200px;
+}
+.imageconteiner{
+    width: 90%;
+    margin: 50px auto;
+    margin-left: 5%;
+}
+.imageconteiner::after{
+    content:''; 
+    width: 1px;
+    height: 1px;
+    clear: both;
+}
